@@ -1,16 +1,32 @@
 body {
     background-color: black;
     color: #fffffff0;
+    font-family: Arial, "Times New Roman", sans-serif;
+}
+
+p {
+    width: 45%;
 }
 
 h1 {
     color: black;
     background-color: whitesmoke;
+    text-align: center;
 }
 
 h2 {
     background-color: #ffffffd0;
     color: black;
+    width: 50%;
+}
+
+li {
+    padding: 2px;
+    width: 45%;
+}
+
+ol li {
+    padding: 8px;
 }
 
 a {
