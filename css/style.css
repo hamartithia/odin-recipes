@@ -4,6 +4,12 @@ body {
     font-family: Arial, "Times New Roman", sans-serif;
 }
 
+img {
+    width: 50%;
+    height: auto;
+<!-- needs to be more specific to the image for each recipe page, but should also align and probably look a bit neater. -->
+}
+
 p {
     width: 45%;
 }
