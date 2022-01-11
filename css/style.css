@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color: #fffffff0;
+}
+
+h1 {
+    color: black;
+    background-color: whitesmoke;
+}
+
+h2 {
+    background-color: #ffffffd0;
+    color: black;
+}
+
+a {
+    color: teal;
+}
